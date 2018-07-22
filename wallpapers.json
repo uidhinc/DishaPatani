@@ -1,0 +1,33 @@
+{
+   "Categories": 
+        [
+            {
+                "name": "style"
+            },
+            {
+                "name": "hot"
+            },
+           {
+                "name": "fashion"
+            },
+           {
+                "name": "magical"
+            }
+        ],
+   "Wallpapers": [
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/BeingBhai/master/Salman1.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/BeingBhai/master/Salman1_thumb.jpg",
+         "name": "Salman 1",
+         "category": "hot"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/BeingBhai/master/Salman2.jpg",
+         "thumbUrl": "https://raw.githubusercontent.com/uidhinc/BeingBhai/master/Salman2_thumb.jpg",
+         "name": "Salman 2",
+         "category": "magical"
+      }
+        ]
+}
